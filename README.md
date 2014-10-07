@@ -7,9 +7,9 @@ Organisation des répertoire
 --------------------------- 
 Le dépôt est organisé en missions. A chaque mission correspond un objectif permettant au programmeur de construire le jeu petit à petit. Dans le répertoire de chaque mission, il y a un fichier  texte qui rappel le but du jeu et décrit l'objectif la mission. On trouve également, un fichier « Programme.sb2 », qui reprend les étapes de constructions des précédentes missions et enfin un fichier solution pour aider à finir la mission.
 
-but du jeu
+But du jeu
 ----------
-Vous devez programmer un jeu vidéo, qui consiste à faire un chat avec un plongeur. Le but est d'échapper le plus longtemps possible au plongeur, qui suivra votre souris pour vous attraper. Celui qui échappera le plus longtemps au plongeur aura gagné !
+Vous devez programmer un jeu vidéo, qui consiste à faire un chat avec un plongeur. Le but est d'échapper le plus longtemps possible au plongeur, qui suivra votre souris pour vous attraper. Celui qui échappera le plus longtemps au plongeur aura gagné ! Vous pouvez retrouver une démo jouable de ce jeu sur le site de [Scratch](http://scratch.mit.edu/projects/28307124/).
 
 Retour d'expérience
 -------------------
