@@ -1,7 +1,6 @@
 Chat avec Plongeur
 ==================
-L'objectif est d'apprendre les bases de la programmation en s'amusant avec Scratch. Si vous ne connaissez pas Scratch, allez voir sur l
-e site du [MIT](http://scratch.mit.edu/scratch2download/) et téléchargez l'application disponible sous Linux, OSX et Windows.
+L'objectif est d'apprendre les bases de la programmation en s'amusant avec Scratch. Si vous ne connaissez pas Scratch, allez voir sur le site du [MIT](http://scratch.mit.edu/scratch2download/) et téléchargez l'application disponible sous Linux, OSX et Windows.
 
 Organisation des répertoire
 --------------------------- 
